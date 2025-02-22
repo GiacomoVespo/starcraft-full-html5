@@ -48,8 +48,7 @@ Classic RTS game at html5 canvas and javascript, only js codes.
 * Check svn.log for other detailed changes
 
 ## Notice
-1. Need extract resource from orginal starcraft game, and add them into bgm/img folder before play
-	* List serveral useful extract tools: MpqWorkshop, GRPEdit and RetroGRP
+1. List serveral useful extract tools: MpqWorkshop, GRPEdit and RetroGRP
 2. Need setup server before play in multiplayer mode, follow below steps:
 	* Install NodeJs on your machine
 	* Install websocket module: input 'npm install websocket' in cmd
@@ -116,8 +115,7 @@ Classico gioco RTS in html5 canvas e javascript, solo codici js
 * Controlla svn.log per altre modifiche dettagliate
 
 ## Avviso
-1. È necessario estrarre le risorse dal gioco originale di Starcraft e aggiungerle nella cartella bgm/img prima di giocare
-* Elenca diversi strumenti di estrazione utili: MpqWorkshop, GRPEdit e RetroGRP
+1. Elenca diversi strumenti di estrazione utili: MpqWorkshop, GRPEdit e RetroGRP
 2. È necessario configurare il server prima di giocare in modalità multigiocatore, segui i passaggi seguenti:
 * Installa NodeJs sul tuo computer
 * Installa il modulo websocket: inserisci 'npm install websocket' in cmd
