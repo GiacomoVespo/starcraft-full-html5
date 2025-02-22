@@ -1,3 +1,14 @@
+Welcome to the most advanced project of Satrcraft Browsergame online.
+I took an old code from 2015 to propose it updated.
+I modified the campaign level for a more exciting and automatic gameplay. I am looking for improvements even if I have recently approached html5.
+
+# Installation
+If you have windows, just download xampp and install it.
+Once installed, empty all the files in the htdocs directory and insert this project.
+Starting inside xampp, apache, you just need to open a browser and start http://localhost
+Try it, have fun and if you can, support me by improving the version or giving me updates.
+Giacomo Vespo
+
 # SC-Js
 Classic RTS game at html5 canvas and javascript, only js codes.
 
@@ -53,6 +64,18 @@ Classic RTS game at html5 canvas and javascript, only js codes.
 ## Try it online at:
 [SC Html5 Online](http://www.nvhae.com/starcraft/)
 
+Se hai windows, ti basta scaricare xampp ed installarlo.
+Una volta installato, svuota tutti i files della directory htdocs e inserisci questo progetto.
+Avviando dentro xampp, apache, ti basterà aprire un browser e avviare http://localhost
+Provalo, divertiti e se puoi, supportami migliorandone la versione o dandomi aggiornamenti.
+Giacomo Vespo
+
+# Installazione
+Se hai Windows, scarica semplicemente xampp e installalo.
+Una volta installato, svuota tutti i file nella directory htdocs e inserisci questo progetto.
+Partendo da xampp, apache, ti basta aprire un browser e avviare http://localhost
+Provalo, divertiti e se puoi, supportami migliorando la versione o dandomi aggiornamenti.
+Giacomo Vespo
 
 # SC-Js
 Classico gioco RTS in html5 canvas e javascript, solo codici js
