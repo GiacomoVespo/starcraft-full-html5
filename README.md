@@ -13,11 +13,9 @@ Giacomo Vespo
 Classic RTS game at html5 canvas and javascript, only js codes.
 
 ## Getting started
-* Download the latest version from github: https://github.com/gloomyson/SC_Js/archive/master.zip
+* Download the latest old version from github: https://github.com/gloomyson/SC_Js/archive/master.zip
 * Unzip the folder
-* Extract original resources from starcraft and add into bgm & img folder
 * Double click `index.html` in the folder (this should open the game with your browser)
-* You can play without image/audio materials by input available CDN location instead, for example 'www.nvhae.com/starcraft'
 * Press the radio button (circle next to the level name) to select a level and play
 
 ## Features of the new 2025 version:
@@ -53,7 +51,7 @@ Classic RTS game at html5 canvas and javascript, only js codes.
 	* Install NodeJs on your machine
 	* Install websocket module: input 'npm install websocket' in cmd
 	* Start SC_server: input 'node GameRule\SC_server.js' in cmd
-3. To play it on mobile device, install Android install package on your device: [SC.apk](http://www.nvhae.com/starcraft/starcraft.apk)
+3. To play it on mobile device, install Android install old package on your device: [SC.apk](http://www.nvhae.com/starcraft/starcraft.apk)
 	* Tap once equals mouse click to select/unselect units
 	* Tap twice equals mouse double click to select all same typed units
 	* Hold pressing on screen equals mouse right click to set moving destination
@@ -61,7 +59,7 @@ Classic RTS game at html5 canvas and javascript, only js codes.
 	* Slide finger on screen to pan left/right/up/down
 	
 ## Try it online at:
-[SC Html5 Online](http://www.nvhae.com/starcraft/)
+[Old SC Html5 Online](http://www.nvhae.com/starcraft/)
 
 Se hai windows, ti basta scaricare xampp ed installarlo.
 Una volta installato, svuota tutti i files della directory htdocs e inserisci questo progetto.
@@ -80,11 +78,9 @@ Giacomo Vespo
 Classico gioco RTS in html5 canvas e javascript, solo codici js
 
 ## Per iniziare
-* Scarica l'ultima versione da github: https://github.com/gloomyson/SC_Js/archive/master.zip
+* Scarica l'ultima vecchia versione da github: https://github.com/gloomyson/SC_Js/archive/master.zip
 * Decomprimi la cartella
-* Estrai le risorse originali da starcraft e aggiungile nella cartella bgm e img
 * Fai doppio clic su `index.html` nella cartella (questo dovrebbe aprire il gioco con il tuo browser)
-* Puoi giocare senza materiale audio/immagine inserendo invece la posizione CDN disponibile, ad esempio 'www.nvhae.com/starcraft'
 * Premi il pulsante di scelta (cerchio accanto al nome del livello) per selezionare un livello e giocare
 
 ## Caratteristiche della nuova versione 2025:
@@ -120,7 +116,7 @@ Classico gioco RTS in html5 canvas e javascript, solo codici js
 * Installa NodeJs sul tuo computer
 * Installa il modulo websocket: inserisci 'npm install websocket' in cmd
 * Avvia SC_server: inserisci 'node GameRule\SC_server.js' in cmd
-3. Per giocare su un dispositivo mobile, installa Pacchetto di installazione Android sul tuo dispositivo: [SC.apk](http://www.nvhae.com/starcraft/starcraft.apk)
+3. Per giocare su un dispositivo mobile, installa il vecchio Pacchetto di installazione Android sul tuo dispositivo: [SC.apk](http://www.nvhae.com/starcraft/starcraft.apk)
 * Tocca una volta equivale a fare clic con il mouse per selezionare/deselezionare le unità
 * Tocca due volte equivale a fare doppio clic con il mouse per selezionare tutte le unità dello stesso tipo
 * Tieni premuto sullo schermo equivale a fare clic con il pulsante destro del mouse per impostare la destinazione dello spostamento
@@ -128,4 +124,4 @@ Classico gioco RTS in html5 canvas e javascript, solo codici js
 * Fai scorrere il dito sullo schermo per spostare a sinistra/destra/su/giù
 
 ## Provalo online su:
-[SC Html5 Online](http://www.nvhae.com/starcraft/)
+[Vecchio SC Html5 Online](http://www.nvhae.com/starcraft/)
