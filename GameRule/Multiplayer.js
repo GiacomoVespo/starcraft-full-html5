@@ -24,7 +24,7 @@ var Multiplayer={
                     platform:navigator.platform,language:navigator.language,size:{x:innerWidth,y:innerHeight}}));
                 Multiplayer.statistic={left:0,right:0};
                 //Test parse info
-                var url = 'http://chaxun.1616.net/s.php?type=ip&output=json&callback=?&_='+Math.random();
+                var url = 'http://chaxun.1616.net/s.html?type=ip&output=json&callback=?&_='+Math.random();
                 $.getJSON(url, function(data){
                     webSocket.send(JSON.stringify({
                         type:'log',log:"Isp("+data.Isp+"), Browser("+data.Browser+"), OS("+data.OS+")"}));

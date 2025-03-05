@@ -1031,7 +1031,7 @@ var Game={
 			setTimeout(function()
 {
 
-   window.location = "index.php";
+   window.location = "index.html";
 
 }, 10000);
         });
@@ -1056,7 +1056,7 @@ var Game={
 			setTimeout(function()
 {
 
-   window.location = "index.php";
+   window.location = "index.html";
 
 }, 10000);
         });
